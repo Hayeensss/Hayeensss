@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ✨<a href = "portfolio-hayeen.vercel.app">My Portfolio</a>
+- ✨<a href = "portfolio-hayeen.vercel.app">My Portfolio</a>✨
 
 ## 👩‍💻 Tech Stack
 
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <img height="55" alt="flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
 <img height = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo">
 <img height="45" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-
 <img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
 <img height="53" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
 <img height="48" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> 
