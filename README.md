@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ✨<a href = "portfolio-hayeen.vercel.app">My Portfolio</a>✨
+- ✨<a href = "https://portfolio-hayeen.vercel.app">My Portfolio</a>✨
 
 ## 👩‍💻 Tech Stack
 
