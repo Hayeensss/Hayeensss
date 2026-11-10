@@ -1,43 +1,31 @@
-## Hey, I'm Hayeen. 👋
+# Hi, I'm Hayeen (Hanyu Xue)
 
-<!--
-**Hayeensss/Hayeensss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Perth-based Master of Information Technology graduate from the University of Western Australia, seeking a **Junior Software Developer** role.
 
-Here are some ideas to get you started:
+My projects focus on web applications built with React, Next.js and PostgreSQL. I also work as a Procurement Coordinator, coordinating purchasing requests, supplier communication and delivery follow-up. That work gives me practical experience with business processes and changing requirements.
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
 
-- ✨<a href = "https://portfolio-hayeen.vercel.app">My Portfolio</a>✨
+### [Smart Doorbell System](https://github.com/Hayeensss/Smart_Doorbell)
 
-## 👩‍💻 Tech Stack
+A web application for viewing device events and filtering event history, paired with a [notification worker](https://github.com/Hayeensss/SmartDoorbell_Notification) that processes pending events and sends email alerts to device owners.
 
-<div align = 'center'>
-<img height="45" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height="45" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="55" alt="flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
-<img height = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo">
-<img height="45" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-<img height="53" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
-<img height="53" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
-<img height="48" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> 
-<img height="45" alt="Vercel" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vercel-icon.svg"/>
-<img height="45" alt="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg"/>
-<img height="45" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img height="45" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img height="45" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+- React history filters and server-side PostgreSQL queries.
+- Cloudflare Worker integration with Clerk and Resend.
+- Vitest component tests for shared UI controls.
 
-</div>
+Start with the web repository's README for implementation entry points and the worker repository for the notification flow. Source code is available; a working public device demo is not currently advertised.
 
-## 📈 Profile Stats
+### [Portfolio Website](https://github.com/Hayeensss/portfolio_Hayeen)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hayeensss&theme=transparent&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayeensss&layout=compact&theme=transparent&hide_border=true)](https://github.com/Hayeensss/github-readme-stats)
+A Next.js and Tailwind CSS website with reusable project cards and a contact form backed by server-side validation and a Resend integration.
 
-[![Hayeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayeensss&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Hayeensss)
+## Technologies used in these projects
+
+JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, PostgreSQL, Git and Vitest, with Clerk, Cloudflare Workers and Resend integrations.
+
+## Contact
+
+- [Portfolio](https://portfolio-hayeen.vercel.app)
+- [CV](https://portfolio-hayeen.vercel.app/resume.pdf)
+- Email: gracehayeens@gmail.com
