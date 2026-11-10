@@ -18,7 +18,7 @@ Start with the web repository's README for implementation entry points and the w
 
 ### [Portfolio Website](https://github.com/Hayeensss/portfolio_Hayeen)
 
-A Next.js and Tailwind CSS website with reusable project cards and a contact form backed by server-side validation and a Resend integration.
+A Next.js and Tailwind CSS website with reusable project components, responsive layouts, light and dark themes, and direct email contact. Earlier contact-form integration work remains documented in the repository.
 
 ## Technologies used in these projects
 
@@ -26,6 +26,6 @@ JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, PostgreSQL, Git and Vitest,
 
 ## Contact
 
-- [Portfolio](https://portfolio-hayeen.vercel.app)
+- [Portfolio](https://hayeenxue.com)
 - [CV](https://github.com/Hayeensss/portfolio_Hayeen/blob/main/public/resume.pdf)
 - Email: gracehayeens@gmail.com
