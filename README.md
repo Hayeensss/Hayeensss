@@ -27,5 +27,5 @@ JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, PostgreSQL, Git and Vitest,
 ## Contact
 
 - [Portfolio](https://portfolio-hayeen.vercel.app)
-- [CV](https://portfolio-hayeen.vercel.app/resume.pdf)
+- [CV](https://github.com/Hayeensss/portfolio_Hayeen/blob/main/public/resume.pdf)
 - Email: gracehayeens@gmail.com
